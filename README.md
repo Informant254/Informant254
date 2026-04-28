@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🕵️‍♂️ Informant254
 
-<!--
-**Informant254/Informant254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Investigator | Python Developer | Cybersecurity Student
 
-Here are some ideas to get you started:
+Currently mastering Networking and Forensics while building industrial-grade automated systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack
+- **Python:** Bot architecture & automation (v52.0 logic).
+- **Web:** Full-stack deployment with Netlify & Selar.
+- **Security:** Networking fundamentals, MAC spoofing, and OpenVPN.
+- **OS:** Linux (Termux/Ubuntu), Windows 7.
+
+### 🛡️ Certification Goals
+- [ ] TryHackMe Bronze Badge (Expected: 5 Days 🥉)
+- [ ] B.Sc. Computer Security & Forensics @ DeKUT (Candidate)
+
+---
+
+### 🚀 Key Projects
+- **[Flourish Studio](https://frabjous-frangipane-42c58d.netlify.app/):** Digital marketplace for the Kenyan market.
+- **Nairobi Elite Hub:** Advanced Telegram bot ecosystem.
+- 
