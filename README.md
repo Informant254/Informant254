@@ -24,7 +24,8 @@ I build practical tools and storefronts with a bias for clean UX, fast delivery,
 
 ## Featured Work
 
-- [Flourish Studio](https://frabjous-frangipane-42c58d.netlify.app/) - digital product storefront for planners, journals, and self-improvement downloads
+- [flourish-studio](https://github.com/Informant254/flourish-studio) - digital product storefront for planners, journals, and self-improvement downloads
+- [Live demo](https://frabjous-frangipane-42c58d.netlify.app/) - deployed storefront version
 - Nairobi Elite Hub - Telegram bot ecosystem and automation work
 
 ## What I’m Building
@@ -43,7 +44,7 @@ I build practical tools and storefronts with a bias for clean UX, fast delivery,
 
 GitHub profile pins are set in the profile UI, not in this repo. If you want the strongest profile layout, pin:
 
-1. `Flourish-studio-` for the storefront and product design work
+1. `flourish-studio` for the storefront and product design work
 2. Your best Python or automation repo next
 3. Your strongest cybersecurity or tooling repo after that
 
