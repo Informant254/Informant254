@@ -1,24 +1,38 @@
-# 🕵️‍♂️ Informant254
+# Informant254
 
-### Digital Investigator | Python Developer | Cybersecurity Student
+Python automation, cybersecurity, and conversion-focused web projects.
 
-Currently mastering Networking and Forensics while building industrial-grade automated systems.
+I build practical tools and storefronts with a bias for clean UX, fast delivery, and clear outcomes.
 
----
+## Current Focus
 
-### 🛠️ Technical Stack
-- **Python:** Bot architecture & automation (v52.0 logic).
-- **Web:** Full-stack deployment with Netlify & Selar.
-- **Security:** Networking fundamentals, MAC spoofing, and OpenVPN.
-- **OS:** Linux (Termux/Ubuntu), Windows 7.
+- Python automation and scripting
+- Cybersecurity and networking fundamentals
+- Product landing pages that convert on mobile
+- Lightweight, deployable web projects
 
-### 🛡️ Certification Goals
-- [ ] TryHackMe Bronze Badge (Expected: 5 Days 🥉)
-- [ ] B.Sc. Computer Security & Forensics @ DeKUT (Candidate)
+## Stack
 
----
+- `Python`
+- `HTML`, `CSS`, `JavaScript`
+- `Netlify`
+- `GitHub`
+- `Selar`
+- `Linux`
 
-### 🚀 Key Projects
-- **[Flourish Studio](https://frabjous-frangipane-42c58d.netlify.app/):** Digital marketplace for the Kenyan market.
-- **Nairobi Elite Hub:** Advanced Telegram bot ecosystem.
-- 
+## Featured Work
+
+- [Flourish Studio](https://frabjous-frangipane-42c58d.netlify.app/) - digital product storefront for planners, journals, and self-improvement downloads
+- Nairobi Elite Hub - Telegram bot ecosystem and automation work
+
+## What I’m Building
+
+- reusable storefront templates
+- automation workflows
+- security and networking projects
+- products designed for African creators and mobile-first buyers
+
+## Connect
+
+- GitHub: [@Informant254](https://github.com/Informant254)
+- Open to collaborations on automation, web, and digital product projects
