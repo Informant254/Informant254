@@ -1,0 +1,57 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Informant254 Profile Banner</title>
+  <desc id="desc">Dark editorial banner with code, automation, and cybersecurity accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1018"/>
+      <stop offset="1" stop-color="#151B28"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="260" y1="70" x2="1260" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6CE5B1" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#6CA8FF" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B2233"/>
+      <stop offset="1" stop-color="#111826"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <circle cx="260" cy="120" r="170" fill="#6CE5B1" fill-opacity="0.08"/>
+  <circle cx="1340" cy="90" r="240" fill="#6CA8FF" fill-opacity="0.08"/>
+  <path d="M-40 404C240 288 476 284 748 338C1024 393 1282 370 1640 248" stroke="url(#accent)" stroke-width="3" stroke-opacity="0.42"/>
+  <path d="M-30 430C244 312 468 312 742 360C1008 407 1292 398 1648 282" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="1.5"/>
+
+  <g filter="url(#shadow)">
+    <rect x="118" y="92" width="510" height="316" rx="28" fill="url(#card)" stroke="#2C3448"/>
+    <rect x="166" y="138" width="154" height="18" rx="9" fill="#6CE5B1" fill-opacity="0.92"/>
+    <text x="166" y="224" fill="#F6F8FB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="700">Informant254</text>
+    <text x="166" y="272" fill="#B9C2D4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">Python automation · cybersecurity · web projects</text>
+    <text x="166" y="318" fill="#93A0B7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Clean UX, fast delivery, and projects built to be shared.</text>
+    <rect x="166" y="344" width="146" height="38" rx="19" fill="#6CA8FF"/>
+    <text x="189" y="369" fill="#0C1018" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Featured work</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="704" y="92" width="388" height="154" rx="24" fill="#111826" stroke="#2A3347"/>
+    <text x="740" y="138" fill="#F6F8FB" font-family="JetBrains Mono, Consolas, monospace" font-size="18">automation.py</text>
+    <rect x="740" y="154" width="306" height="14" rx="7" fill="#233049"/>
+    <rect x="740" y="182" width="250" height="14" rx="7" fill="#233049"/>
+    <rect x="740" y="210" width="182" height="14" rx="7" fill="#233049"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="944" y="282" width="298" height="126" rx="24" fill="#111826" stroke="#2A3347"/>
+    <text x="980" y="328" fill="#F6F8FB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Cybersecurity</text>
+    <text x="980" y="360" fill="#B9C2D4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Networking, forensics, and practical tooling.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="694" y="310" width="210" height="98" rx="22" fill="#0F1724" stroke="#2A3347"/>
+    <text x="726" y="350" fill="#F6F8FB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">GitHub ready</text>
+    <text x="726" y="378" fill="#93A0B7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Profiles, repos, and launches</text>
+  </g>
+</svg>

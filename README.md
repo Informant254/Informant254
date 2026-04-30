@@ -1,5 +1,7 @@
 # Informant254
 
+![Informant254 banner](profile-banner.svg)
+
 Python automation, cybersecurity, and conversion-focused web projects.
 
 I build practical tools and storefronts with a bias for clean UX, fast delivery, and clear outcomes.
@@ -36,3 +38,13 @@ I build practical tools and storefronts with a bias for clean UX, fast delivery,
 
 - GitHub: [@Informant254](https://github.com/Informant254)
 - Open to collaborations on automation, web, and digital product projects
+
+## Pinning Strategy
+
+GitHub profile pins are set in the profile UI, not in this repo. If you want the strongest profile layout, pin:
+
+1. `Flourish-studio-` for the storefront and product design work
+2. Your best Python or automation repo next
+3. Your strongest cybersecurity or tooling repo after that
+
+Keep the top three focused on breadth and proof of execution, not just more repos.
