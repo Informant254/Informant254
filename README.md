@@ -1,51 +1,53 @@
-# Informant254
+# 🛡️ Informant254
 
 ![Informant254 banner](profile-banner.svg)
 
-Python automation, cybersecurity, and conversion-focused web projects.
+### Python Developer | Cybersecurity Enthusiast | Digital Product Architect
 
-I build practical tools and storefronts with a bias for clean UX, fast delivery, and clear outcomes.
+I build practical tools and storefronts with a bias for **clean UX, fast delivery, and clear outcomes.** Currently focused on bridging the gap between security and high-converting web applications.
 
-## Current Focus
+---
 
-- Python automation and scripting
-- Cybersecurity and networking fundamentals
-- Product landing pages that convert on mobile
-- Lightweight, deployable web projects
+## 🚀 Featured Projects
 
-## Stack
+### 🌸 [Flourish Studio](https://github.com/Informant254/flourish-studio)
+**Digital product storefront for planners, journals, and self-improvement downloads.**
+- Built with: HTML, CSS, Vanilla JS
+- Highlights: Mobile-first, SEO-ready, zero dependencies.
+- [**Live Demo**](https://frabjous-frangipane-42c58d.netlify.app/)
 
-- `Python`
-- `HTML`, `CSS`, `JavaScript`
-- `Netlify`
-- `GitHub`
-- `Selar`
-- `Linux`
+### 🤖 Nairobi Elite Hub
+**Telegram bot ecosystem and automation workflows.**
+- Focus: Community automation and creator tools.
 
-## Featured Work
+---
 
-- [flourish-studio](https://github.com/Informant254/flourish-studio) - digital product storefront for planners, journals, and self-improvement downloads
-- [Live demo](https://frabjous-frangipane-42c58d.netlify.app/) - deployed storefront version
-- Nairobi Elite Hub - Telegram bot ecosystem and automation work
+## 🛠️ Tech Stack
 
-## What I’m Building
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Python`, `JavaScript`, `HTML5`, `CSS3` |
+| **Platforms** | `Netlify`, `Vercel`, `GitHub Actions` |
+| **Tools** | `Linux`, `Selar`, `Git`, `Bash` |
+| **Focus** | `Automation`, `Cybersecurity`, `E-commerce` |
 
-- reusable storefront templates
-- automation workflows
-- security and networking projects
-- products designed for African creators and mobile-first buyers
+---
 
-## Connect
+## 📈 GitHub Stats
 
-- GitHub: [@Informant254](https://github.com/Informant254)
-- Open to collaborations on automation, web, and digital product projects
+![Informant254's GitHub stats](https://github-readme-stats.vercel.app/api?username=Informant254&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Informant254&layout=compact&theme=transparent)
 
-## Pinning Strategy
+---
 
-GitHub profile pins are set in the profile UI, not in this repo. If you want the strongest profile layout, pin:
+## 📫 Connect with Me
 
-1. `flourish-studio` for the storefront and product design work
-2. Your best Python or automation repo next
-3. Your strongest cybersecurity or tooling repo after that
+- 💼 **Open to Collaborations**: Automation, Web Dev, and Digital Product projects.
+- 🐦 **Twitter**: [Your Twitter Link Here]
+- 📧 **Email**: charlesngatia713@gmail.com
 
-Keep the top three focused on breadth and proof of execution, not just more repos.
+---
+
+> "Building products designed for African creators and mobile-first buyers."
+
+⭐ *Don't forget to star my repos if you find them useful!*
