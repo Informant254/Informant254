@@ -43,7 +43,7 @@ I build practical tools and storefronts with a bias for **clean UX, fast deliver
 ## 📫 Connect with Me
 
 - 💼 **Open to Collaborations**: Automation, Web Dev, and Digital Product projects.
-- 🐦 **Twitter**: [Your Twitter Link Here]
+- 🐦 **Twitter**: [@CharlesN63070](https://x.com/CharlesN63070)
 - 📧 **Email**: charlesngatia713@gmail.com
 
 ---
